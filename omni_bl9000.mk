@@ -24,7 +24,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := BL9000
-PRODUCT_NAME := omni_BL9000
+PRODUCT_NAME := omni_bl9000
 PRODUCT_BRAND := DOOGEE
 PRODUCT_MODEL := DOOGEE BL9000
 PRODUCT_MANUFACTURER := DOOGEE
@@ -34,7 +34,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.vendor.build.security_patch=2099-12-31
 	
 PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
-	ro.adb.secure=0 \
+	#ro.adb.secure=0 \
     persist.sys.usb.config=mtp \
     persist.service.adb.enable=1 \
     persist.service.debuggable=1
