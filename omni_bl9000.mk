@@ -1,5 +1,4 @@
-#
-# Copyright (C) 2019 The TwrpBuilder Open-Source Project
+# Copyright 2020 The Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,23 +14,25 @@
 #
 
 # Release name
-PRODUCT_RELEASE_NAME := BL9000
+PRODUCT_RELEASE_NAME := bl9000
 
+# Inherit from the common Open Source product configuration
 $(call inherit-product, build/target/product/embedded.mk)
 
 # Inherit from our custom product configuration
 $(call inherit-product, vendor/omni/config/common.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := BL9000
+PRODUCT_PLATFORM := mtk6763
 PRODUCT_NAME := omni_bl9000
+PRODUCT_DEVICE := bl9000
 PRODUCT_BRAND := DOOGEE
 PRODUCT_MODEL := DOOGEE BL9000
 PRODUCT_MANUFACTURER := DOOGEE
 
 # HACK: Set vendor patch level
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.vendor.build.security_patch=2099-12-31
+#PRODUCT_PROPERTY_OVERRIDES += \
+#    ro.vendor.build.security_patch=2099-12-31
 	
 PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
 	#ro.adb.secure=0 \

@@ -101,9 +101,9 @@ TW_THEME := portrait_hdpi
 
 TW_DEVICE_VERSION := 0 by HedigehoG
 
-# DEVICE_RESOLUTION := 1080x2280 (deprecated)
+# DEVICE_RESOLUTION := 1080x2160 (deprecated)
 DEVICE_SCREEN_WIDTH := 1080
-DEVICE_SCREEN_HEIGHT := 2280
+DEVICE_SCREEN_HEIGHT := 2160
 
 RECOVERY_GRAPHICS_USE_LINELENGTH := true
 TARGET_USE_CUSTOM_LUN_FILE_PATH := /sys/devices/platform/mt_usb/musb-hdrc.0.auto/gadget/lun%d/file
