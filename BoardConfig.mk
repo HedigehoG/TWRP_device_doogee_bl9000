@@ -3,6 +3,7 @@ LOCAL_PATH := device/doogee/bl9000
 
 # If build on minimal-manifest sources
 ALLOW_MISSING_DEPENDENCIES:= true
+LC_ALL:= C
 
 # Architecture
 TARGET_ARCH := arm64
@@ -13,9 +14,9 @@ TARGET_CPU_VARIANT := cortex-a53
 
 TARGET_2ND_ARCH := arm
 TARGET_2ND_ARCH_VARIANT := armv7-a-neon
+TARGET_2ND_CPU_VARIANT := cortex-a15
 TARGET_2ND_CPU_ABI := armeabi-v7a
 TARGET_2ND_CPU_ABI2 := armeabi
-TARGET_2ND_CPU_VARIANT := cortex-a53
 
 TARGET_CPU_ABI_LIST_64_BIT := $(TARGET_CPU_ABI)
 TARGET_CPU_ABI_LIST_32_BIT := $(TARGET_2ND_CPU_ABI),$(TARGET_2ND_CPU_ABI2)
