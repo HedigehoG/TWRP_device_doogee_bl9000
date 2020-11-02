@@ -1,9 +1,9 @@
 # TWRP_device_doogee_bl9000
 
 ## About Device
-
-![Doogee BL9000](https://s.4pda.to/QysaaUshbz0mkd9uxGMuGDCXuWWgnnWhrX1jGRn9z0r3werNYUb1.jpg?_=1557411025)
-![Doogee BL9000](https://helpix.ru/doogee/bl9000/pic/01.jpg|width=100px)
+<img src="https://s.4pda.to/QysaaUshbz0mkd9uxGMuGDCXuWWgnnWhrX1jGRn9z0r3werNYUb1.jpg?_=1557411025" alt="Doogee BL9000" height="300">
+<img src="https://helpix.ru/doogee/bl9000/pic/01.jpg|width=100px" alt="Doogee BL9000" height="300">
+<!-- <img src="./img.png" width="100" height="100"> -->
 ### Specifications
 
 Component Type | Details
