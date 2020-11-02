@@ -1,8 +1,9 @@
 # TWRP_device_doogee_bl9000
 
 ## About Device
-Большой обзор https://www.ixbt.com/live/mobile/doogee-bl9000-obzor-monstrfona-s-batareey-9000-mah-nfc-i-besprovodnoy-zaryadkoy.html
+<a href="https://www.ixbt.com/live/mobile/doogee-bl9000-obzor-monstrfona-s-batareey-9000-mah-nfc-i-besprovodnoy-zaryadkoy.html">Большой обзор</a>
 <p><img src="https://s.4pda.to/QysaaUshbz0mkd9uxGMuGDCXuWWgnnWhrX1jGRn9z0r3werNYUb1.jpg?_=1557411025" alt="Doogee BL9000" height="300">
+<img src="https://s.4pda.to/QysaaUshWz1Y9nz25rgz2V2UPz0xkQZcrgQkxuY87dEHR88r06fiOa.jpg" alt="Doogee BL9000" height="300">
 <img src="https://helpix.ru/doogee/bl9000/pic/01.jpg" alt="Doogee BL9000" height="300">
 </p><!-- <img src="./img.png" width="100" height="100"> -->
 ### Specifications
