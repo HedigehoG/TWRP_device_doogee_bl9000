@@ -3,7 +3,7 @@
 ## About Device
 
 ![Doogee BL9000](https://s.4pda.to/QysaaUshbz0mkd9uxGMuGDCXuWWgnnWhrX1jGRn9z0r3werNYUb1.jpg?_=1557411025)
-![Doogee BL9000](https://helpix.ru/doogee/bl9000/pic/01.jpg | width=100)
+![Doogee BL9000](https://helpix.ru/doogee/bl9000/pic/01.jpg){:height="100px"}
 ### Specifications
 
 Component Type | Details
