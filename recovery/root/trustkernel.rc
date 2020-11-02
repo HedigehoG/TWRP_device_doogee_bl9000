@@ -41,7 +41,7 @@ on property:trustkernel.log.state=ready
 	restorecon /data/tee/tkcore.log
 	setprop trustkernel.log.state enable
 
-service teed /bin/teed \
+service teed /sbin/teed \
 	--systapath /vendor/app/t6 \
 	--sdrpmbdev /dev/block/platform/bootdevice/by-name/sdrpmb \
 	--prot /vendor/protect_f/tee 
