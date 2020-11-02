@@ -13,13 +13,13 @@ Component Type | Details
 | |UMTS 900, 2100
 | |GSM 850, 900, 1800, 1900
 Интернет:	|LTE cat.4 150/50 Мбит/с
-	|HSDPA, HSUPA
-	|EDGE
+| |HSDPA, HSUPA
+| |EDGE
 Wi-Fi:	|a/b/g/n, 2.4 + 5 ГГц
 Экран:	|S-IPS, 5.99", 1080x2160, 403 ppi, 16M цветов, сенсорный, ёмкостный, мультитач
 ОС:	|Android 8.1 Oreo
 Железо:	|MediaTek Helio P23 MT6763V
-	|2 ГГц, 8 x Cortex-A53, Mali-G71 MP2
+| |2 ГГц, 8 x Cortex-A53, Mali-G71 MP2
 Память:	|RAM 6 ГБ, ROM 64 ГБ, Micro-SD
 Аккумулятор:	|Li-Pol, 9000 мА·ч, 5V/5A, беспроводная зарядка
 Масса:	|275 г
