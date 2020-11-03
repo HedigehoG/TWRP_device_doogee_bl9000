@@ -1,5 +1,5 @@
 # Device path
-LOCAL_PATH := device/doogee/bl9000
+LOCAL_PATH := device/doogee/BL9000
 
 # If build on minimal-manifest sources
 ALLOW_MISSING_DEPENDENCIES:= true

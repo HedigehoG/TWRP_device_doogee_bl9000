@@ -1,8 +1,0 @@
-[
-  {
-    "remote":       "omnirom",
-    "repository":   "android_device_doogee_bl9000-common",
-    "target_path":  "device/doogee/bl9000-common",
-    "revision":     "android-8.1"
-  }
-]

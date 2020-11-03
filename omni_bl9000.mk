@@ -14,7 +14,7 @@
 #
 
 # Release name
-PRODUCT_RELEASE_NAME := bl9000
+PRODUCT_RELEASE_NAME := BL9000
 
 # Inherit from the common Open Source product configuration
 $(call inherit-product, build/target/product/embedded.mk)
@@ -24,8 +24,8 @@ $(call inherit-product, vendor/omni/config/common.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_PLATFORM := mtk6763
-PRODUCT_NAME := omni_bl9000
-PRODUCT_DEVICE := bl9000
+PRODUCT_NAME := omni_BL9000
+PRODUCT_DEVICE := BL9000
 PRODUCT_BRAND := DOOGEE
 PRODUCT_MODEL := DOOGEE BL9000
 PRODUCT_MANUFACTURER := DOOGEE
